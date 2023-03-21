@@ -13,5 +13,6 @@ public class MyProject {
         System.out.println("Hello world");
         int x = 8;
         System.out.println(x * 3);
+        System.out.println("Hello Programming");
     }
 }
