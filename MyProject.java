@@ -11,5 +11,7 @@ package INT103;
 public class MyProject {
     public static void main(String[] args) {
         System.out.println("Hello world");
+        int x = 8;
+        System.out.println(x * 3);
     }
 }
